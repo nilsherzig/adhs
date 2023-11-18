@@ -5,6 +5,11 @@ lang: 'DE-de'
 
 Ich habe keine Ahnung was ich mache, aber werde hier alles festhalten, was ich ausprobiere.
 
+# Gewohnheiten 
+
+- Loop Habit Tracker (10 / 10 Software)
+  - https://github.com/iSoron/uhabits
+
 # Fokus 
 
 ## Session
