@@ -9,9 +9,11 @@ Ich habe keine Ahnung was ich mache, aber werde hier alles festhalten, was ich a
 
 ## Session
 
-- 40Hz 5min davor 
+- 40Hz 5min davor  
+  - https://www.nature.com/articles/s41598-020-63980-y
 - 90min Blöcke mit 30min pause 
-  - Pomodoro https://pomofocus.io/ 
+  - Pomodoro 
+    - https://pomofocus.io/ 
     - 3 x (25min Arbeit + 5min pause) 
   - in Pausen kein Handy / PC
   - 3 pro Tag -> 4:30 effektive Arbeit, Rest kann einfache Sachen sein
